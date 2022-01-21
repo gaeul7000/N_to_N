@@ -43,7 +43,7 @@ public class SearchServlet extends HttpServlet {
 
 	    request.setAttribute("k_name", name);
 		
-		String IP = "175.116.84.203"; 
+		String IP = "110.12.100.36"; 
 		int PORT = 6379; 
 		int TIME_OUT = 1000; 
 		String PASSWORD = "ss12!("; 

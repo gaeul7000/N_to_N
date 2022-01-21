@@ -38,7 +38,7 @@ public class UpdateServlet extends HttpServlet {
 		String name = request.getParameter("k_name");
 		String e_name = request.getParameter("e_name");
 		
-		String IP = "175.116.84.203"; 
+		String IP = "110.12.100.36"; 
 		int PORT = 6379; 
 		int TIME_OUT = 1000; 
 		String PASSWORD = "ss12!("; 
